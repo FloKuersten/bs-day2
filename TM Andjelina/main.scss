@@ -1,0 +1,34 @@
+.bg-grey {
+  background-color: darkgray;
+  li a {
+    color: #fff;
+    font-size: 2rem;
+    margin-right: 10px;
+  }
+  .navbar-nav .nav-link.active {
+    color: #fff;
+    text-decoration: underline;
+  }
+}
+
+.main {
+  background-color: rgb(228, 222, 222);
+
+  .nav-pills .nav-link.active {
+    background-color: transparent;
+    color: rgb(241, 227, 227);
+    text-decoration: underline;
+  }
+  .con {
+    background-color: rgb(194, 190, 190);
+    padding: 30px;
+    margin-top: 150px;
+    width: 90%;
+    margin: auto;
+  }
+}
+
+.nav-pills .nav-link {
+  color: rgb(243, 233, 233);
+  font-size: 1.5rem;
+}

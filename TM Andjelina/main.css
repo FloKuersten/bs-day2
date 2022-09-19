@@ -1,0 +1,38 @@
+.bg-grey {
+  background-color: darkgray;
+}
+
+.bg-grey li a {
+  color: #fff;
+  font-size: 2rem;
+  margin-right: 10px;
+}
+
+.bg-grey .navbar-nav .nav-link.active {
+  color: #fff;
+  text-decoration: underline;
+}
+
+.main {
+  background-color: #e4dede;
+}
+
+.main .nav-pills .nav-link.active {
+  background-color: transparent;
+  color: #f1e3e3;
+  text-decoration: underline;
+}
+
+.main .con {
+  background-color: #c2bebe;
+  padding: 30px;
+  margin-top: 150px;
+  width: 90%;
+  margin: auto;
+}
+
+.nav-pills .nav-link {
+  color: #f3e9e9;
+  font-size: 1.5rem;
+}
+/*# sourceMappingURL=main.css.map */
